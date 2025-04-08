@@ -13,14 +13,11 @@
 
 ## Q. 2. Refer to the data table below and identify 3 errors/issues that could impact the accuracy of your findings.
  
-1.	Multiple Transactions from the Same User in a Short Time (Abnormal Frequency) - 
-•	User johnp made multiple transactions (e.g., on 1-6-20, 3-6-20, and 10-6-20) in close succession, with significantly high values—some within minutes. This unusual frequency and value spike should be flagged for review.
+1.	Multiple Transactions from the Same User in a Short Time (Abnormal Frequency) - 	User johnp made multiple transactions (e.g., on 1-6-20, 3-6-20, and 10-6-20) in close succession, with significantly high values—some within minutes. This unusual frequency and value spike should be flagged for review.
 
-2.	Inconsistent Shipping Addresses for the Same User - 
-•	For johnp, the shipping address changes from a full home address to "In-store" and then to "P.O. Box 1049". Such sudden changes in delivery preferences may indicate possible fraud or account misuse.
+2.	Inconsistent Shipping Addresses for the Same User - 	For johnp, the shipping address changes from a full home address to "In-store" and then to "P.O. Box 1049". Such sudden changes in delivery preferences may indicate possible fraud or account misuse.
 
-3.	Same IP Address with Multiple Transactions in Different Categories and Amounts - 
-•	User davidg made four transactions from the same IP address (1.58.167.2) with different product categories and varying values within a short timeframe, which might be a bot or automated abuse pattern.
+3.	Same IP Address with Multiple Transactions in Different Categories and Amounts - User davidg made four transactions from the same IP address (1.58.167.2) with different product categories and varying values within a short timeframe, which might be a bot or automated abuse pattern.
 
 ## Q.3. Refer to the data table below and identify 2 anomalies or unexpected behaviours, that would lead you to believe the transaction may be suspect.
 1.  Unusually High-Value Transactions with Rapid Delivery Preference Changes (User: johnp) : 
