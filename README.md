@@ -8,4 +8,9 @@ Assignments are uploaded as .docx files for clarity and formatting.
 
 
 ## How to View
-Click on any file and download or preview the .docx document directly on GitHub.
+
+- Open the file by clicking its name.
+- Click *“Download”* or *“View raw”*.
+
+
+
