@@ -6,7 +6,6 @@ This repository contains my personal practice exercises and assignments related 
 ## Format
 Assignments are uploaded as .docx files for clarity and formatting.
 
----
 
 ## How to View
 Click on any file and download or preview the .docx document directly on GitHub.
