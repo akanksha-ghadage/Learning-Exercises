@@ -1,6 +1,6 @@
 # Exercises and Assignments
 
-This repository contains my personal practice exercises and assignments related to data analytics, including Python and SQL. 
+This repository includes assignments covering Python and SQL topics relevant to data analytics.
 
 ## How to View
 
